@@ -1,0 +1,16 @@
+{
+  "name": "threejs-vite-starter",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.7.2"
+  },
+  "dependencies": {
+    "three": "^0.137.5",
+    "three-controls": "^1.0.1"
+  }
+}

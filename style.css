@@ -1,0 +1,8 @@
+body {
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    background-color: hsl(220, 50%, 10%);
+    overflow: hidden;
+}
+
